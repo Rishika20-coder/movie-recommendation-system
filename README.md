@@ -1,5 +1,4 @@
-# movie-recommendation-system1
-# Movie Recommendation System
+# Movie-recommendation-system 
 
 This Movie Recommendation System (MRS) is an innovative approach to movie discovery through machine learning-based algorithms. It provides personalized movie suggestions to users based on collaborative and content-based filtering techniques.
 
