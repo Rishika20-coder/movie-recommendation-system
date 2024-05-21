@@ -6,6 +6,12 @@ This Movie Recommendation System (MRS) is an innovative approach to movie discov
 
 - **GitHub Repository:** [Movie Recommendation System](https://github.com/Rishika20-coder/movie-recommendation-system)
 - **Frontend Deployment:** [Vercel](your_vercel_frontend_url)
+- ![WhatsApp Image 2024-05-21 at 17 02 17_b9895e52](https://github.com/Rishika20-coder/movie-recommendation-system/assets/74089987/b5171d86-4bf3-4dcd-a9d4-6d9ff72dc562)
+- ![WhatsApp Image 2024-05-21 at 17 02 16_72651461](https://github.com/Rishika20-coder/movie-recommendation-system/assets/74089987/08929e47-3f36-474f-964a-70b5cb95e75d)
+- ![WhatsApp Image 2024-05-21 at 17 02 15_e71df836](https://github.com/Rishika20-coder/movie-recommendation-system/assets/74089987/c54fd0e5-b746-443a-91f1-d650d54e4ab7)
+
+
+
 
 ## Features
 
